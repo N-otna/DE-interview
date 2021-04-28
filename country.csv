@@ -1,0 +1,33 @@
+﻿model,country
+Mazda RX4,Japan
+Mazda RX4 Wag,Japan
+Datsun 710,Japan
+Hornet 4 Drive,USA
+Hornet Sportabout,USA
+Valiant,USA
+Duster 360,USA
+Merc 240D,Germany
+Merc 230,Germany
+Merc 280,Germany
+Merc 280C,Germany
+Merc 450SE,Germany
+Merc 450SL,Germany
+Merc 450SLC,Germany
+Cadillac Fleetwood,USA
+Lincoln Continental,USA
+Chrysler Imperial,USA
+Fiat 128,Italy
+Honda Civic,Japan
+Toyota Corolla,Japan
+Toyota Corona,Japan
+Dodge Challenger,USA
+AMC Javelin,USA
+Camaro Z28,USA
+Pontiac Firebird,USA
+Fiat X1-9,Italy
+Porsche 914-2,Germany
+Lotus Europa,UK
+Ford Pantera L,USA
+Ferrari Dino,Italy
+Maserati Bora,Italy
+Volvo 142E,Sweden
